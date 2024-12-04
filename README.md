@@ -1,3 +1,8 @@
+Overview
+
+This repository contains a comprehensive sales analysis of a bike store using Power BI. The project includes a 4-page dashboard with insights into regional performance, product trends, customer analysis, return analysis, and future sales predictions through time series analysis.
+
+
 # Power-bi-works-adventure-data-analysis
 
 
